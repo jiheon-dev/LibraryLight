@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe" --dbpath="C:\LibraryLight\MongoDB\db" --bind_ip="127.0.0.1" --logpath="C:\LibraryLight\MongoDB\log\mongo.log" --noscripting --vvvvv --profile=2

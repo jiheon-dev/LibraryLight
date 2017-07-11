@@ -1,0 +1,1 @@
+netstat -an | Select-String -Pattern LISTENING
